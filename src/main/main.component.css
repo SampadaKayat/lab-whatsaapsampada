@@ -8,7 +8,7 @@
 }
 .main {
   width: 93rem;
-  height: 44rem;
+  height: 43rem;
   /* background-color: red; */
   display: flex;
   flex-direction: row;
@@ -18,7 +18,7 @@
 }
 .sidenav {
   width: calc(93rem - 67.5%);
-  height: 44rem;
+  height: 43rem;
   /* background-color: green; */
   display: flex;
   flex-direction: column;
