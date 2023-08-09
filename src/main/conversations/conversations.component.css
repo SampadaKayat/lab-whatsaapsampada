@@ -4,7 +4,6 @@
   justify-content: flex-start;
   margin-top: 0.5rem;
   height: 43.6rem;
-  background-color: red;
 }
 .con-header {
   display: flex;
@@ -13,7 +12,6 @@
   align-items: center;
   height: 3.5rem;
   width: 100%;
-  background-color: green;
 }
 .msg-window {
   display: flex;
